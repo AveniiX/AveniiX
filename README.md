@@ -27,6 +27,8 @@ real-world machine learning projects with Python.
 | 🎬 Movie Review Sentiment Analyzer | NLP model classifying IMDB reviews as positive/negative. Deployed as a live web app. | [Live App](https://movie-review-sentiment-analyzer-with-a-web-app-fimymdvsfyagxv9.streamlit.app/) · [Repo](https://github.com/AveniiX/Movie-Review-Sentiment-Analyzer-with-a-Web-App) |
 | 🏠 House Price Prediction | Linear Regression on 2,900+ records from Ames Iowa dataset. Achieved 0.78 R² score. | [Repo](https://github.com/AveniiX/House-Price-Regression-Analysis) |
 | 🚢 Titanic Survival Prediction | Random Forest + Logistic Regression classification with Pandas and Scikit-learn. | [Repo](https://github.com/AveniiX/Titanic-Data-Science-Project) |
+| 📈 Customer-Churn-Prediction-Dashboard | SMOTE, class imbalance, Plotly charts, business ML thinking, ROC-AUC, Business-focused ML + interactive dashboard  | [Repo](https://github.com/AveniiX/Customer-Churn-Prediction-Dashboard) |
+
 
 ---
 
