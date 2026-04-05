@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Hi,%20I'm%20Hamam!&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20ML%20Engineer%20|%20Python&descAlignY=55&descSize=18)
+
 # Hi, I'm Hamam 👋
 
 I'm a self-taught Data Scientist from Pakistan, building
