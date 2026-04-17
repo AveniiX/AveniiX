@@ -26,7 +26,7 @@ real-world machine learning projects with Python.
 |---------|-------------|------|
 | 🎬 Movie Review Sentiment Analyzer | NLP model classifying IMDB reviews as positive/negative. Deployed as a live web app. | [Live App](https://movie-review-sentiment-analyzer-with-a-web-app-fimymdvsfyagxv9.streamlit.app/) · [Repo](https://github.com/AveniiX/Movie-Review-Sentiment-Analyzer-with-a-Web-App) |
 | 📈 Stock Price Forecaster | A time series forecasting web app that predicts stock prices using Meta's Prophet model and live data from Yahoo Finance.| [Repo](https://github.com/MuhammadHamam/Stock-Price-Forecaster) |
-[Live App](https://stock-price-forecaster-g4zaycs9wzhmkvnceweyfn.streamlit.app/)
+[Live App] · (https://stock-price-forecaster-g4zaycs9wzhmkvnceweyfn.streamlit.app/)
 | 🚢 Titanic Survival Prediction | Random Forest + Logistic Regression classification with Pandas and Scikit-learn. | [Repo](https://github.com/AveniiX/Titanic-Data-Science-Project) |
 | 📈 Customer-Churn-Prediction-Dashboard | SMOTE, class imbalance, Plotly charts, business ML thinking, ROC-AUC, Business-focused ML + interactive dashboard  | [Live App](https://customer-churn-prediction-dashboard-u7avckzktypqdb3i5fx6jy.streamlit.app/) · [Repo](https://github.com/AveniiX/Customer-Churn-Prediction-Dashboard) |
 | 🏠 Real Estate Price Prediction: Ames Housing Analysis | A machine learning model using Linear Regression to predict home prices in Ames, Iowa. Achieved a 0.78 R-Squared score by engineering 6 key features from the 2,900+ record dataset. | · [Repo](https://github.com/MuhammadHamam/House-Price-Regression-Analysis) |
