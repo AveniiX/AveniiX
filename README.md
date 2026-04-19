@@ -25,6 +25,8 @@ Self-taught Data Scientist and AI Engineer from Hyderabad, Pakistan — building
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6C3483?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-LLaMA_3.3-FF6B35?style=flat)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-4B8BBE?style=flat)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
