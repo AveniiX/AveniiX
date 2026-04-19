@@ -1,49 +1,41 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Hi,%20I'm%20Hamam!&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20ML%20Engineer%20|%20Python&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Muhammad%20Hamam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Python%20Developer&descAlignY=58&descSize=16)
 
-# Hi, I'm Hamam 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-hamam-b90455374/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MuhammadHamam">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:acue69720@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-I'm a self-taught Data Scientist from Pakistan, building
-real-world machine learning projects with Python.
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=500&lines=Self-taught+Data+Scientist;Building+real-world+ML+projects;Python+%7C+NLP+%7C+Scikit-learn)](https://git.io/typing-svg)
+Self-taught Data Scientist and AI Engineer from Hyderabad, Pakistan — building real-world ML and GenAI systems independently. 6 end-to-end projects deployed as live web applications.
 
 ---
 
 ## Skills
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-4B8BBE?style=flat)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
-## Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| 🎬 Movie Review Sentiment Analyzer | NLP model classifying IMDB reviews as positive/negative. Deployed as a live web app. | [Live App](https://movie-review-sentiment-analyzer-with-a-web-app-fimymdvsfyagxv9.streamlit.app/) · [Repo](https://github.com/AveniiX/Movie-Review-Sentiment-Analyzer-with-a-Web-App) |
-| 📈 Stock Price Forecaster | A time series forecasting web app that predicts stock prices using Meta's Prophet model and live data from Yahoo Finance.| [Repo](https://github.com/MuhammadHamam/Stock-Price-Forecaster) · [Live App](https://stock-price-forecaster-g4zaycs9wzhmkvnceweyfn.streamlit.app/)
-| 🚢 Titanic Survival Prediction | Random Forest + Logistic Regression classification with Pandas and Scikit-learn. | [Repo](https://github.com/AveniiX/Titanic-Data-Science-Project) |
-| 📈 Customer-Churn-Prediction-Dashboard | SMOTE, class imbalance, Plotly charts, business ML thinking, ROC-AUC, Business-focused ML + interactive dashboard  | [Live App](https://customer-churn-prediction-dashboard-u7avckzktypqdb3i5fx6jy.streamlit.app/) · [Repo](https://github.com/AveniiX/Customer-Churn-Prediction-Dashboard) |
-| 🏠 Real Estate Price Prediction: Ames Housing Analysis | A machine learning model using Linear Regression to predict home prices in Ames, Iowa. Achieved a 0.78 R-Squared score by engineering 6 key features from the 2,900+ record dataset. | · [Repo](https://github.com/MuhammadHamam/House-Price-Regression-Analysis) |
-
-
----
-
-## Currently Learning
-- 🔹 Deep Learning basics (Neural Networks)
-- 🔹 Model deployment with REST APIs (Flask/FastAPI)
-- 🔹 Feature engineering techniques
-
----
-
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamam-yousif-b90455374/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/AveniiX)
-
 <p align="center">
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100%"/>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer)
